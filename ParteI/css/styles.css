@@ -1,0 +1,33 @@
+body{
+    font-family: 'Balsamiq Sans';
+
+}
+.cuadro{
+    border: 3px solid black; 
+    width: 320px; 
+    margin: 70px; 
+}
+
+.arriba{
+    display: flex;
+    justify-content: space-evenly ;
+    padding: 15px ;
+    padding-top: 10px;
+}
+.titulo,.numlikes{
+    margin-top: 10px;
+}
+.abajo{
+    text-align: justify;
+    padding: 25px;
+    padding-top: 5px;
+}
+.Like{
+    font-family: 'Balsamiq Sans';
+    border: 3px solid black;
+    background-color: rgb(219, 219, 113);
+    padding: 2px;
+    font-size: 17px;
+    
+   
+}
